@@ -73,7 +73,7 @@ public class LmsController
                    return "curriculum";
            }
 
-
+//Akkijkdfgbjkdfgbklfnlfkjnl
             @RequestMapping(value = "/lecture")
            public String lecture(Model m)
            {
